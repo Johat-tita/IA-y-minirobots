@@ -1,1 +1,19 @@
- 
+1.1  Pídale a varios LLMs de IAGen una definición de IA, compárelas con lo visto en el capitulo. 
+     GPT: La inteligencia artificial (IA) es un campo de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como el razonamiento, el aprendizaje, la percepción y la generación de lenguaje natural.
+     Gemini: La inteligencia artificial es la ciencia de construir programas que aprenden de los datos y son capaces de adaptarse a nuevas situaciones. Implica el uso de algoritmos avanzados, como el aprendizaje profundo, para abordar problemas en lenguaje, visión, planificación y más.
+     LLaMA (Meta): La IA es una rama de las ciencias de la computación que estudia cómo desarrollar modelos matemáticos y computacionales capaces de simular aspectos de la inteligencia humana, desde el reconocimiento de patrones hasta la generación de contenido.
+     Durante la clase dimos algunas definiciones de la inteligencia en sí misma, creo que para las diferentes IA's es escencial simular la inteligencia humana para cumplir con su propósito, pero algo muy curiosos es que al igual que nosotros durante la clase, 
+     ninguna de las definiciones brindadas menciona el tiempo como factor determinante con respecto a la importancia de la inteligencia, y además, ninguna definición consideró los dos tipos de IA general y estrecha que se mencionaron en el capítulo.
+1.2  Dé una definición propia de inteligencia artificial.
+     La inteligencia artificial es un área de la tecnología que busca simular el pensamiento y la lógica humana a partir de la interpretación de millones de datos.
+1.3  Vea el video que se encuentra en https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s. Haga un análisis de lo discutido en el documento con respecto al video. 
+     En el documento el tema principal que se toma en cuenta son los efoques para usar y generar IA, sin embargo, en el video el enfoque está más dirigido a alarmar que a aprender a generar o usar IA, ya que el hecho de que se busque que los robots no solo piensen sino que 
+     además se vean y se reproduzcan como humanos, a simple vista no parece ser un avance en torno a ayudar al ser humano a facilitar su vida diaria sino que parece más un intento de generar una nueva especie, lo cual no le hace a uno preguntarse ¿Cómo puedo usar esta herramienta? sino que 
+     uno se pregunta ¿Tendré que convivir con robots en un futuro y tratarlos como si fueran humanos, como seres vivos?
+1.4  Investigue sobre los planes del gobierno con respecto a la IA.
+     Colombia ha dado un paso significativo con el CONPES 4144, apostando por consolidar la IA como una herramienta estratégica para el desarrollo nacional. 
+     El enfoque es integral —tecnológico, humano, ético, territorial—, pero enfrenta retos importantes: la ejecución efectiva, la regulación, la protección de derechos y la reducción de desigualdades. La colaboración público-privada y las alianzas internacionales aparecen como piezas clave para avanzar.
+     El Gobierno de Colombia adoptó la Política Nacional de Inteligencia Artificial (CONPES 4144) con horizonte a 2030, destinando cerca de 479 000 millones de pesos para fortalecer infraestructura tecnológica, investigación, formación de talento, ética y adopción de la IA en sectores público y privado
+     Referencia: https://www.grupoasd.com/asi-es-la-nueva-politica-publica-de-ia-en-colombia/
+
+Uso de IA ChatGPT: Se uso como herramienta en el primer punto y comparar su respuesta con las ideas expuestas en el documento de apoyo
